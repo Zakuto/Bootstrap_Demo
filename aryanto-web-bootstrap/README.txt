@@ -1,0 +1,1 @@
+open index.html for more information about me. Thank you ^_^.
